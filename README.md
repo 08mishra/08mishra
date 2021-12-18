@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/08_mishra" target="blank"><img src="https://img.shields.io/twitter/follow/08_mishra?logo=twitter&style=for-the-badge" alt="08_mishra" /></a> </p>
 
-- 🔭 I’m currently working at [fodrix](fodrix.com)
+- 🔭 I’m currently working at [fodrix](https://fodrix.com/)
 
 - 🌱 I’m currently learning **React**
 

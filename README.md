@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **Prashantkashyap603@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sDnBqlPv9KqN8zVggyGFTNfqnipGJ1hp/view?usp=sharing](https://drive.google.com/file/d/1sDnBqlPv9KqN8zVggyGFTNfqnipGJ1hp/view?usp=sharing)
-
 - ⚡ Fun fact **It took me one year to understand CSS Grid and Flexbox!**
 
 <h3 align="left">Connect with me:</h3>

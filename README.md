@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **project based on React**
+
+- 👯 I’m looking to collaborate on **project based on React or nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/08mishra](https://github.com/08mishra)
 
